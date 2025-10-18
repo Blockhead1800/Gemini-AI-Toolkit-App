@@ -1,0 +1,5 @@
+{
+  "name": "Math AI Agent",
+  "description": "An advanced AI agent for solving math problems. It can understand images, run Python code, and generate graphs with Desmos to provide comprehensive and visual solutions.",
+  "requestFramePermissions": []
+}

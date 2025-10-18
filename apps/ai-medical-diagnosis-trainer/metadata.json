@@ -1,0 +1,5 @@
+{
+  "name": "AI Medical Diagnosis Trainer",
+  "description": "An AI-powered chat application for medical students to practice diagnosing patients. The app presents a patient profile and symptoms, and the student must ask questions to determine the underlying medical condition.",
+  "requestFramePermissions": []
+}

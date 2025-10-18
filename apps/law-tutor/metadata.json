@@ -1,0 +1,5 @@
+{
+  "name": "Law Tutor",
+  "description": "An AI-powered chat application for law students. Take on a fictional case, analyze the facts presented by an AI law professor, ask clarifying questions, and try to determine the key legal issues and outcome.",
+  "requestFramePermissions": []
+}
